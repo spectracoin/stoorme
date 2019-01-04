@@ -10,7 +10,7 @@ export default function LeftBlock() {
 				<div className="content-left-wrapper">
 					<Link to={process.env.PUBLIC_URL + "/"} id="logo">
             <img src={logo} alt="" width="49" height="35" />
-            <h1 className="title title-light">More Just Store</h1>
+            <h1 className="title title-light">Stoor</h1>
           </Link>
 					<div id="social">
 						<ul>
