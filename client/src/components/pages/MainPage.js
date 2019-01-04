@@ -7,7 +7,7 @@ import RightBlock from '../MainPage/RightBlock';
 
 // Local Settings of your app
 const LOCAL_API_ROOT = 'http://localhost:4000';
-const MAIN_PROD_API_ROOT = 'https://morejust.herokuapp.com';
+const MAIN_PROD_API_ROOT = 'https://stoor.herokuapp.com';
 
 const selectAPI = origin => {
   if (origin.includes('localhost')) {
