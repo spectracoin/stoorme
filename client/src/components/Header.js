@@ -11,7 +11,7 @@ export default function Header() {
           <div className="col-10 header-left-col">
             <Link to={process.env.PUBLIC_URL + '/'}>
               <img src={logo} alt="" width="49" height="35" />
-              <h1 className="title">More Just Store</h1>
+              <h1 className="title">Stoor</h1>
             </Link>
           </div>
           <div className="col-2">
